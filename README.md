@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joseph George</h1>
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+ES+Deco+Guides&pause=1000&color=F71515&width=444&height=60&lines=Red+teamer!;Computer+Engineer!;Linux+user!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+ES+Deco+Guides&size=30&pause=1000&color=F71515&width=444&height=60&lines=Red+teamer!;Computer+Engineer!;Linux+user!" alt="Typing SVG" /></a>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=joseph-george1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
