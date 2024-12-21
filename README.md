@@ -4,6 +4,7 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=joseph-george1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=29818" style='border:none;'></iframe>
 
 - 🌱 I’m currently learning **Red Teaming**
 
