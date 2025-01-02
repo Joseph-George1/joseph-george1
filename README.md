@@ -4,8 +4,6 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=joseph-george1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<img src="https://tryhackme-badges.s3.amazonaws.com/JOseph.png" alt="Your Image Badge" />
-
 - 🌱 I’m currently learning **Red Teaming**
 
 - 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/joseph-george-wahba)
